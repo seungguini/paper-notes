@@ -8,10 +8,11 @@ Papers are annotated with a Confidence Score on a (0) to (5) scale, where (0) me
 
 ### Dialog
 
-| Title                                                                                                       | Confidence Score |
-| ----------------------------------------------------------------------------------------------------------- | :--------------: |
-| [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476.pdf)                         |        2         |
-| [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](https://arxiv.org/abs/1502.05698) |        0         |
+| Title                                                                                                                                 | Confidence Score |
+| ------------------------------------------------------------------------------------------------------------------------------------- | :--------------: |
+| [ParlAI: A Dialog Research Software Platform](https://arxiv.org/pdf/1705.06476.pdf)                                                   |        2         |
+| [Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks](https://arxiv.org/abs/1502.05698)                           |        0         |
+| [Investigating Evaluation of Open-Domain Dialogue Systems With Human Generated Multiple References](https://arxiv.org/abs/1907.10568) |        0         |
 
 ### Deep Learning
 

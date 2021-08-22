@@ -17,6 +17,11 @@ A list of topics, libraries, and code to study & recap
 - Convolutional Neural Network
 - LSTM & GRU
 
+### General Coding
+
+- Testing
+  - [Unit Testing in Python](https://docs.python.org/3/library/unittest.html)
+
 ### Mathematics
 
 - Linear Algebra
@@ -33,5 +38,9 @@ A list of topics, libraries, and code to study & recap
 ### Natural Language Generation
 
 - ParlAI (research)
-  - Try
+  - Try replicating & understanding [Colab](https://colab.research.google.com/drive/1bRMvN0lGXaTF5fuTidgvlAl-Lb41F7AD#scrollTo=jYuaSPWrw0Il)
 - Huggingface (research)
+  - Read documentation
+  - Try out & run code on local repository
+- [nlg-eval](https://github.com/Maluuba/nlg-eval) (research)
+  -
